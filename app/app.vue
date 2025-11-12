@@ -33,7 +33,7 @@
           <clipPath id="a"><path fill="#fff" d="M0 0h221v65H0z" /></clipPath>
         </defs>
       </svg>
-      <h1>Welcome to Nuxt!</h1>
+      <h1>Welcome to Nuxt, this website was created using Omega from a git push!</h1>
       <p>You've successfully created a Nuxt project. Well done!</p>
       <div class="links">
         <a href="https://nuxt.com/docs" target="_blank">Documentation</a>
